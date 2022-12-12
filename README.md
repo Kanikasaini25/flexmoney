@@ -3,19 +3,19 @@ Admission for Yoga Class - assignment task
 
 steps:
 
-Home page
+1. Home page
 
-Login if user had already an account, else signup
+2. Login if user had already an account, else signup
 
-Get the admission for Yoga Class
+3. Get the admission for Yoga Class
 
-Book the slot and age liimit is 18-65
+4. Book the slot and age liimit is 18-65
 
-Data stored into Database using local server (Xampp server)
+5. Data stored into Database using local server (Xampp server)
 
-Process the payment through UPI
+6. Process the payment through UPI
 
-Payment is successful
+7. Payment is successful
 
 Results drive link : https://docs.google.com/document/d/1Ac5rEXgnVwVUDgmYjy78HC01BIEv-TWy/edit?usp=share_link&ouid=110760377196448048591&rtpof=true&sd=true
 
